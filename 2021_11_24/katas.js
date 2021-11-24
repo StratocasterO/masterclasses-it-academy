@@ -129,14 +129,6 @@ console.log("----------------- Exercicis de numbers ---------------");
 
 calculadora();
 
-function calculadora() {
-    var simbols = ["+","-","*","/","**"]
-    var sim = prompt("simbol")
-
-    if (simbols.indexOf(sim) != -1) {
-        if (sim == "+"){}
-    }
-}
 
 // exercici 12: a partir de tres números, calcula si poden ser els tres costats d'un triangle rectangle aplicant el
 // teorema de Pitàgores (a**2 == b**2 + c**2 és "true" pels triangles rectangles quan "a" és el seu costat més llarg)
