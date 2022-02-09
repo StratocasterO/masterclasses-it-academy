@@ -15,7 +15,8 @@ Recordeu que podeu contactar sempre amb la [Laia López](mailto:laia.lopez@ext.b
 - **adapt it** to yourself and to the application
 - SHORT SHORT SHORT*
 - I mean... let me be clear: **JUST ONE PAGE FOR GOD'S SAKE**
-- [Canva](http://www.canva.com)
+- [Canva](http://www.canva.com) per buscar plantilles i fer disseny _for dummies_
+- Podeu posar logos de tecnologies amb [Simple Icons](https://simpleicons.org/)
 
 ## Carta de presentació 💌
 
