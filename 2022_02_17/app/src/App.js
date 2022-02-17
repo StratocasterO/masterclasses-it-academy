@@ -1,10 +1,9 @@
 import React from 'react';
 import {
-  Routes,
   BrowserRouter as Router,
+  Routes,
   Route
-}
-  from 'react-router-dom';
+} from 'react-router-dom';
 import Welcome from './pages/Welcome';
 import Planets from './pages/Planets';
 import Details from './pages/Details';
@@ -12,16 +11,10 @@ import './App.css';
 
 // props són els paràmetres d'entrada del component
 function App(props) {
-
-
-
   return (
     <div className="App">
-      {/* Part fixa de l'aplicació */}
-      <Welcome></Welcome>
-
-      {/* Part dinámica (condicionals, bucles, etc) */}
-      <Planets></Planets>
+      <p> (This is App.js) </p>
+      <hr></hr>
 
       {/* Rutes */}
       <Router>
@@ -31,7 +24,6 @@ function App(props) {
           <Route path='/planetsDetail/:id' element={<Details />} />
         </Routes>
       </Router>
-
     </div>
   );
 }

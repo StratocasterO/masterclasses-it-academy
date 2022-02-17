@@ -17,7 +17,7 @@ function Planets() {
     let url = "/planetDetail/" + item.id;
 
     return < Link to={url} >
-      <p>item.name</p>
+      <p>{item.name}</p>
     </Link >
   });
 
@@ -30,9 +30,7 @@ return (
     <p>Llista de planetes:</p>
     {planetsToShow}
 
-    <Link to="/">
-      Ves a l'inici
-    </Link>
+    <p> This is Planets component </p>
   </>
 );
 }
