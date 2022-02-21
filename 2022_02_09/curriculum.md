@@ -16,7 +16,7 @@ Recordeu que podeu contactar sempre amb la [Laia López](mailto:laia.lopez@ext.b
 - SHORT SHORT SHORT*
 - I mean... let me be clear: **JUST ONE PAGE FOR GOD'S SAKE**
 - [Canva](http://www.canva.com) o [FlowCV](https://flowcv.io/) (gràcies [Ferran](https://github.com/fescola/)) per buscar plantilles i fer disseny _for dummies_
-- Podeu posar logos de tecnologies amb [Simple Icons](https://simpleicons.org/)
+- Podeu posar logos de tecnologies amb [Simple Icons](https://simpleicons.org/) (gràcies [Xavi](https://github.com/xaviercomi))
 
 ## Carta de presentació 💌
 
