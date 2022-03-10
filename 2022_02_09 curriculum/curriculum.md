@@ -1,6 +1,6 @@
 # Masterclass currículum
 
-Masterclass parlant sobre currículums (and adjacent) des del punt de vista de qui busca entrevistes. Ens veiem a l'aula virtual de Node (https://bit.ly/3HOLgxU) o a l'aula INTERNET els que esteu presencialment.
+Masterclass parlant sobre currículums (and adjacent) des del punt de vista de qui busca entrevistes. Ens veiem a l'aula virtual de Node (https://bit.ly/3HOLgxU) o a l'aula INTERNET els que esteu presencialment. Masterclass realitzada per l'itinerari de Node.js de la [IT Academy](https://www.barcelonactiva.cat/es/itacademy).
 
 Una masterclass que se surt del temari de l'especialització però que va sobre una cosa per on haureu de passar tots tard o d'hora!
 
