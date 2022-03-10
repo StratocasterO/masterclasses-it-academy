@@ -58,9 +58,9 @@ En realitats looks like això:
 - `color`
 - `font-size`
 - `font-weight`
-- ``
-- ``
-- ``
+- `display: block/inline/inline-block`
+- `display: flex`
+- `display: grid`
 
 ### Display flex
 
@@ -73,6 +73,9 @@ En realitats looks like això:
 
 ## **JavaScript**
 
+- `console.log()`
+- `window.alert()`
+- `window.prompt()`
 - Modificació del DOM `querySelector()` i `querySelectorAll()`
 - Disparadors `.addEventListener()`
-
+- Per fer peticions HTTP al servidor: [Fetch API](https://pablomonteserin.com/curso/javascript/ejemplos-api-fetch/)
