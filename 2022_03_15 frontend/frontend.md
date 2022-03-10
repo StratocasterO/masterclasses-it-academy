@@ -5,13 +5,16 @@ Masterclass sobre desenvolupament frontend (web) bàsic amb HTML, CSS i JS. Ens 
 
 ## **HTML**
 
-**H**yper**T**ext **M**arkup **L**anguage (HTML) és el llenguatge de marcat que interpreta el navegador (⚠ el navegador s'ho menja tot, no hi ha errors ni advertències)
+**H**yper**T**ext **M**arkup **L**anguage (HTML) és el llenguatge de marcat que interpreta el navegador (⚠ el navegador s'ho menja tot, no hi ha errors ni advertències).
+
+[Aquí](index.html) l'arxiu de proves d'HTML on aniré editant coses.
 
 ### Etiquetes bàsiques:
 
 - Títols `<h1></h1> ... <h6></h6>`
 - Paràgrafs `<p></p>`
 - Contenidors de text `<span></span>`
+- Enllaços `<a href="http://www.google.com">Google</a>`
 - Contenidors `<div></div>`
 - [Contenidors semàntics](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - Imatges `<img src=""></img>`
@@ -19,11 +22,14 @@ Masterclass sobre desenvolupament frontend (web) bàsic amb HTML, CSS i JS. Ens 
 ### Formularis:
 
 - Formulari `<form></form>`
-- Inputs i labels: see [form.html](form.html)
+- Text `<input type="text" placeholder="Text de prova">` <input type="text" placeholder="Text de prova">
+- Botons `<input type="button" value="Clica aquí">` 
+<input type="button" value="Clica aquí">
+- Més inputs i labels: see [form.html](form.html)
 
 ### Estructura de caixes
 
-⚠ Mai recolzar dues coses en una cosa ⚠ 
+⚠ Mai recolzar dues coses en una cosa
 
 Una estructura així:
 
@@ -36,7 +42,9 @@ En realitats looks like això:
 
 ## **CSS**
 
-**C**ascading **S**tyle **S**heets (CSS) són els arxius amb els que donem estils als elements d'HTML
+**C**ascading **S**tyle **S**heets (CSS) són els arxius amb els que donem estils als elements d'HTML.
+
+[Aquí](style.css) l'arxiu CSS on faré proves.
 
 ### Selectors
 
@@ -51,13 +59,15 @@ En realitats looks like això:
 
 ### Propietats
 
-- `margin`
+- `margin` (unitats: px, %, vw, vh, em, rem)
 - `padding`
 - `width`
 - `height`
 - `color`
 - `font-size`
 - `font-weight`
+- `float: center/left/right`
+- `position: relative/absolute/fixed/sticky` 
 - `display: block/inline/inline-block`
 - `display: flex`
 - `display: grid`
@@ -72,6 +82,10 @@ En realitats looks like això:
 
 
 ## **JavaScript**
+
+Aquesta part ja la coneixeu: al JavaScript hi anirà tota la lògica del funcionament de la pàgina.
+
+[Aquí](script.js) l'arxiu de JavaScript on aniré fent proves.
 
 - `console.log()`
 - `window.alert()`
