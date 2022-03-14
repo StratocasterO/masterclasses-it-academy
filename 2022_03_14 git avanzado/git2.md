@@ -22,7 +22,7 @@ Les pull requests han quedat així:
 
 ## Repositori amb exercici de Git
 
-En [aquest repositori](https://github.com/StratocasterO/node_git_initials) teniu instruccions per aprendre a fer un fork, clonar, modificar i fer pull request a un repositori col·laboratiu.
+En [aquest repositori](https://github.com/IT-Academy-BCN/node_git_initials) teniu instruccions per aprendre a fer un fork, clonar, modificar i fer pull request a un repositori col·laboratiu.
 
 Si feu l'exercici, contacteu-me per discord perquè us accepti la pull request 😉
 
