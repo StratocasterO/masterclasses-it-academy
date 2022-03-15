@@ -42,7 +42,7 @@ En realitats looks like això:
 
 ## **CSS**
 
-**C**ascading **S**tyle **S**heets (CSS) són els arxius amb els que donem estils als elements d'HTML.
+**C**ascading **S**tyle **S**heets (CSS) es un llenguatge de disseny gràfic amb els que donem estils als elements d'HTML.
 
 [Aquí](style.css) l'arxiu CSS on faré proves.
 

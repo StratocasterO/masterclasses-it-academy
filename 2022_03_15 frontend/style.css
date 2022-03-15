@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Courier New', Courier, monospace;
+    color: cornflowerblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+.content {
+    max-width: 1024px; 
+    margin: auto;
+}
+
+.header {
+    border: 1px solid pink;
+}
+
+.main {
+    border: 1px solid grey;
+}
+
+.sidebar {
+    background-color: rgb(178, 223, 186); 
+    display: inline-block; 
+    width: 30%; 
+    height: 100%;
+}
+
+.sections {
+    border: 1px solid black; 
+    display: inline-block; 
+    width: 60%;
+}
+
+.section {
+    background-color: rgb(230, 195, 227)
+}
+
+.footer {
+    background-color: rgb(205, 233, 161)
+}
