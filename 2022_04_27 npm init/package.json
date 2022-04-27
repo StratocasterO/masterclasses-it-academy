@@ -1,0 +1,24 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "description": "projecte per la masterclass d'inicialització de projectes de node",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "chalk": "^5.0.1",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "masterclass",
+    "node",
+    "npm",
+    "project",
+    "git"
+  ],
+  "author": "Omar Olmedo",
+  "license": "ISC"
+}

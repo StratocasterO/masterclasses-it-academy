@@ -13,4 +13,3 @@ Masterclass feta el 27 d'abril de 2022 per aprendre inicialització de projectes
 - Git Graph
 - Better comments
 - To do tree
-
