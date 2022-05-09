@@ -38,7 +38,7 @@ Branques _production_ i _staging_, branques per _features_ o per _developer_, do
 
 ## Exercici _git_initials_
 
-Repo (on ets ara mateix): https://github.com/IT-Academy-BCN/node_git_initials
+Repo: https://github.com/IT-Academy-BCN/node_git_initials
 
 Seguiu les instruccions per fer l'exercici i practicar els conceptes de fork i pull-request 💪🏻
 
