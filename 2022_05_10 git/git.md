@@ -20,7 +20,6 @@ Comandes:
 - `git pull`
 - `git push`
 
-<img style="float: left; height: 1.8em; margin-right: 10px; vertical-align: " src="./source control.PNG">
 
 ## Ús des de VSC
 
@@ -52,7 +51,6 @@ Seguiu les instruccions per fer l'exercici i practicar els conceptes de fork i p
 - Github pages (renderitza les pàgines dels repos amb `index.html`)
 - Github README.md profile ([generador de README](https://rahuldkjain.github.io/gh-profile-readme-generator/))
 
-<img style="float: left; height: 1.8em; margin-right: 10px; vertical-align: " src="./extensions.PNG">
 
 ## Extensions VSC
 
