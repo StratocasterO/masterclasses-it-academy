@@ -12,7 +12,7 @@ Recordeu que podeu contactar amb les companyes de cerca de la IT Academy de fein
 
 - stop black on white, pls ❌
 - stand out
-- **adapt it** to yourself and to the application
+- **adapt it** to yourself and to the application: qui ets? què busques? què aportes? 
 - *SHORT SHORT SHORT*
 - I mean... let me be clear: **JUST ONE PAGE FOR GOD'S SAKE**
 - [Canva](http://www.canva.com) o [FlowCV](https://flowcv.io/) (gràcies [Ferran](https://github.com/fescola/)) per buscar plantilles i fer disseny _for dummies_
