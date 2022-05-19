@@ -26,7 +26,8 @@ Contingut:
 
 Eines:
 - [Canva](http://www.canva.com) o [FlowCV](https://flowcv.io/) (gràcies [Ferran](https://github.com/fescola/)) per buscar plantilles i fer disseny _for dummies_: agafeu una plantilla i modifiqueu-la per que s'adapti al vostres estil (colors, mida de les seccions, posicionament, etc). **Cuideu el disseny**: alineació, tipografies, mides dels textos...
-- Podeu posar logos de tecnologies amb [Simple Icons](https://simpleicons.org/) (gràcies [Xavi](https://github.com/xaviercomi)), tot i que amb una llista és suficient
+- Podeu posar logos de tecnologies, tot i que amb una llista és suficient
+
 
 ## Carta de presentació 💌
 
@@ -39,7 +40,8 @@ Eines:
 ## Github tips 💻
 
 - Profile (repo named *username* i un `README.md`, [generador](https://rahuldkjain.github.io/gh-profile-readme-generator/))
-- Github pages (repo named *username.github.io* i un `index.html`) ➡ portfolio gratis ✨
+- [Aquí](https://github.com/coderjojo/creative-profile-readme) teniu un repo amb idees de perfils ✨
+- Github pages (repo named *username.github.io* i un `index.html`) ➡ portfolio gratis 💲
 - Que el vostre GitHub estigui net i sigui accessible: _READMEs_, repos amb noms descriptius, featured al perfil...
 
 
