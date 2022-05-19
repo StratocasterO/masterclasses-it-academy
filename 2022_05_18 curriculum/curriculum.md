@@ -6,7 +6,7 @@ Una masterclass que se surt del temari de l'especialització però que va sobre 
 
 Porteu o envieu currículums si voleu fer roast en directe.
 
-Recordeu que podeu contactar amb les companyes de cerca de la IT Academy de feina perquè us donin un cop de mà: ofertes, CV, cartes, entrevista, etc.
+Recordeu que podeu contactar amb les companyes de cerca de la IT Academy de feina perquè us donin un cop de mà: ofertes, CV, cartes, entrevista, etc. Les teniu a la secció _Cerca de feina_ del server de Discord
 
 ## Currículums 📄
 
@@ -19,14 +19,14 @@ Recordeu que podeu contactar amb les companyes de cerca de la IT Academy de fein
 Contingut:
 - Descripció personal
 - Info de contacte (telèfon, mail, linkedin i github)
-- Mínima descripció de cada formació o experiència
+- Mínima descripció de cada formació o experiència amb funcions i tecnologies, agrupant-les si són similars
 - No calen idiomes si no apliquen per la oferta (l'anglès es presuposa)
-- Tech skills / personal skills
+- Tech skills / personal skills (adaptades a la oferta si les posa directament)
 
 
 Eines:
-- [Canva](http://www.canva.com) o [FlowCV](https://flowcv.io/) (gràcies [Ferran](https://github.com/fescola/)) per buscar plantilles i fer disseny _for dummies_
-- Podeu posar logos de tecnologies amb [Simple Icons](https://simpleicons.org/) (gràcies [Xavi](https://github.com/xaviercomi))
+- [Canva](http://www.canva.com) o [FlowCV](https://flowcv.io/) (gràcies [Ferran](https://github.com/fescola/)) per buscar plantilles i fer disseny _for dummies_: agafeu una plantilla i modifiqueu-la per que s'adapti al vostres estil (colors, mida de les seccions, posicionament, etc). **Cuideu el disseny**: alineació, tipografies, mides dels textos...
+- Podeu posar logos de tecnologies amb [Simple Icons](https://simpleicons.org/) (gràcies [Xavi](https://github.com/xaviercomi)), tot i que amb una llista és suficient
 
 ## Carta de presentació 💌
 
@@ -51,5 +51,5 @@ Nah, just kidding... But some tips:
 - about me (podeu enganxar text amb format)
 - be active (it's a social network after all 💀)
 - **CONTACTS CONTACTS CONTACTS**
-- skill validation, recomendations
-- afegiu als companys, valideu les seves skills i recomaneu-los! make the world a little better 😃
+- skills validation, recomendations
+- afegiu als companys, valideu les seves skills i recomaneu-los! make the world a little better ⭐
