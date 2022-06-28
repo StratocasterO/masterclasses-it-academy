@@ -18,17 +18,38 @@ Masterclass feta el 28 de juny de 2022 per aprendre funcionalitats avançades de
 
 ## Ús de Git
 
-- Inicialització d'un repositori des de GitHub (amb un `README.md`)
-- Sincronització del remot des de VSC (clonar repo a una carpeta local)
-- Fer _commits_ cada cop que hi hagi un canvi significatiu (una funció, l'estructura d'un arxiu, etc)
+### Setup:
+- crear repo a Github (amb `README.md` i `.gitignore`)
+- clonar el repo desde VSC (inicialitza el repo i fixa el remote)
+- `git config --global user.name "Omar Olmedo"`
+- `git config --global user.email "omar@olmedo.com"`
+
+### Workflow:
+- sincronitzar canvis (pull o sync al VSC)
+- commits a mesura que treballem (canvis significatius)
+- rinse and repeat
+- sincronitzar canvis (push o sync al VSC)
+
+### Extres:
 - Afegir un `.gitignore` per no pujar al repo coses com `node_modules` o `.env` (veure el `.gitignore` de mostra [aquí](https://github.com/StratocasterO/masterclasses-it-academy/blob/master/.gitignore))
 - Recordar **sincronitzar canvis** al final del dia de treball (no cal fer-ho a cada _commit_, però si cada cop que anem a canviar d'ordinador)
 - NO GUARDAR MAI UN REPO DINS UN REPO ❌
 
 
-## Repositori de proves
+## Repositoris de proves
 
-Crear durant la masterclass ✌🏻
+### Git inicial
+
+Afegir repo
+
+### Git avançat
+
+Afegir repo
+
+- fork del repo original
+- clone del meu repo
+- branch (dev_teams, api_rest, dados, sockets)
+- pull request
 
 
 ## Repositori amb exercici de Git

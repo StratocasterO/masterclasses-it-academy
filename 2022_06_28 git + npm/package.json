@@ -1,0 +1,27 @@
+{
+  "name": "projecte_de_prova",
+  "version": "1.0.0",
+  "description": "projecte de prova per la masterclass del 28/6/22",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "jest --passWithNoTests"
+  },
+  "keywords": [
+    "node",
+    "jest",
+    "app",
+    "project"
+  ],
+  "author": "Omar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.1",
+    "jest": "^28.1.1"
+  }
+}
