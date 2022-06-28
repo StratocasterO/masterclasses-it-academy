@@ -69,11 +69,11 @@ Si feu l'exercici, contacteu-me per discord perquè us accepti la pull request �
 
 En aquesta mateixa carpeta podeu veure i provar el projecte de Node que hem creat a la masterclass (amb les dependències `colors`, `jest`, `nodemon` i `dotenv`).
 
-- `npm init` per crear el `package.json` (veure el `package.json` de mostra [aquí]())
+- `npm init` per crear el `package.json` (veure el `package.json` de mostra [aquí](https://github.com/StratocasterO/masterclasses-it-academy/blob/master/2022_06_28%20git%20%2B%20npm/package.json))
 - Crear scripts `start`, `dev` i `test`
 - Instal·lar dependències en local per evitar que les globals no apareguin al `package.json` 
 - Separar dependències de `prod` i `dev` perquè no s'instal·lin coses innecesàries
-- Crear **documentació** clara i completa: descripció del projecte, instruccions de configuració i arrencada, aclaracions, enllaços d'interés, etc (veure el `README.md` de mostra [aquí]())
+- Crear **documentació** clara i completa: descripció del projecte, instruccions de configuració i arrencada, aclaracions, enllaços d'interés, etc (veure el `README.md` de mostra [aquí](https://github.com/StratocasterO/masterclasses-it-academy/blob/master/2022_06_28%20git%20%2B%20npm/README.md))
 
 
 ## Consells generals

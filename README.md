@@ -12,3 +12,4 @@ Repositori creat per les masterclasses del curs d'especialització en NodeJS de 
 - 10/5/21 [Git - Github](https://github.com/StratocasterO/masterclasses-it-academy/blob/master/2022_05_10%20git/git.md)
 - 18/5/22 [Currículum](https://github.com/StratocasterO/masterclasses-it-academy/blob/master/2022_05_18%20curriculum/curriculum.md)
 - 1/6/22 [Github profile & pages](https://github.com/StratocasterO/masterclasses-it-academy/blob/master/2022_06_01%20github/github.md)
+- 28/6/22 [GIT avançat i inicialització de projectes](https://github.com/StratocasterO/masterclasses-it-academy/blob/master/2022_06_28%20git%20%2B%20npm/git_npm.md)
