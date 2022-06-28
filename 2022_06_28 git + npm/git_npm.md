@@ -3,7 +3,6 @@
 Masterclass feta el 28 de juny de 2022 per aprendre funcionalitats avançades de Git i inicialització de projectes de Node a l'itinerari de Node.js de la [IT Academy](https://www.barcelonactiva.cat/es/itacademy). Sobretot  orientada a les especialitzacions que tenen entregues mitjançant pull requests, però serà útil per tothom.
 
 >### Git:
->- Ús diari
 >- Inicialització d'un repositori
 >- Sincronització del remot des de VSC
 >- Fork d'un altre repositori
