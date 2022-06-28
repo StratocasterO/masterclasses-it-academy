@@ -51,10 +51,11 @@ Hem fet [aquest repo](https://github.com/StratocasterOO/nodeInitialDemo) per pro
 - pull request
 
 Les branques han quedat així (visualitzades amb l'extensió [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)):
+
 ![imatge de les branques del repositori de prova](img/git%20graph.PNG)
 
-
 I les pull requests així:
+
 ![imatge de les pull requests del repositori de prova](img/pull%20requests.PNG)
 
 
