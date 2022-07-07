@@ -1,0 +1,10 @@
+- [ ] Basic tags
+- [ ] Basic atributes
+- [ ] Basic style
+- [ ] Forms
+- [ ] Basic DOM
+- [ ] Read from DOM (form)
+- [ ] Write in DOM
+- [ ] Language change
+- [ ] Style change
+- [ ] [Simpson API](https://thesimpsonsquoteapi.glitch.me/)
