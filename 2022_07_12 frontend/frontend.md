@@ -1,6 +1,6 @@
 # Masterclass frontend basics
 
-Masterclass sobre desenvolupament frontend (web) bàsic amb HTML, CSS i JS. Ens veiem a l'aula virtual de Node (https://bit.ly/3HOLgxU) o a l'aula INTERNET els que esteu presencialment. Masterclass realitzada el 15 de març del 2022 per l'itinerari de Node.js de la [IT Academy](https://www.barcelonactiva.cat/es/itacademy).
+Masterclass sobre desenvolupament frontend (web) bàsic amb HTML, CSS i JS. Ens veiem a l'aula virtual de Node (https://bit.ly/3HOLgxU) o a l'aula INTERNET els que esteu presencialment. Masterclass realitzada el 12 de juny del 2022 per l'itinerari de Node.js de la [IT Academy](https://www.barcelonactiva.cat/es/itacademy).
 
 
 ## **HTML**
