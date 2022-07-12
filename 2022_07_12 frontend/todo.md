@@ -1,7 +1,7 @@
-- [ ] Basic tags
-- [ ] Basic atributes
-- [ ] Basic style
-- [ ] Forms
+- [x] Basic tags
+- [x] Basic atributes
+- [x] Basic style
+- [x] Forms
 - [ ] Basic DOM
 - [ ] Read from DOM (form)
 - [ ] Write in DOM

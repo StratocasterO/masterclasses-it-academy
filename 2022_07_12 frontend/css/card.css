@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: gainsboro;
+    border-radius: 5px;
+    height: 380px;
+    width: 220px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 90%;
+    padding: 5px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0px 0px 15px -5px rgba(152, 152, 152, 0.75);
+}
+
+.card img {
+    width: 210px;
+    max-height: 150px;
+    object-fit: contain;
+}
+
+.card a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: gray;
+    padding: 10px;
+    width: fit-content;
+}
