@@ -2,10 +2,10 @@
 - [x] Basic atributes
 - [x] Basic style
 - [x] Forms
-- [ ] Basic DOM
-- [ ] Read from DOM (form)
-- [ ] Write in DOM
-- [ ] Language change
-- [ ] Style change
-- [ ] [Simpson API](https://thesimpsonsquoteapi.glitch.me/)
-- [ ] Server front Node + Express
+- [x] Basic DOM
+- [x] Read from DOM (form)
+- [x] Write in DOM
+- [x] Style change
+- [x] Language change
+- [x] [Simpson API](https://thesimpsonsquoteapi.glitch.me/)
+- [x] Server front Node + Express
