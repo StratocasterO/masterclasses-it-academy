@@ -7,7 +7,7 @@ Masterclass sobre desenvolupament frontend (web) bàsic amb HTML, CSS i JS. Ens 
 
 **H**yper**T**ext **M**arkup **L**anguage (HTML) és el llenguatge de marcat que interpreta el navegador (⚠ el navegador s'ho menja tot, no hi ha errors ni advertències).
 
->[Aquí](html/index.html) l'arxiu de proves d'HTML on aniré editant coses.
+>[Aquí](./html/index.html) l'arxiu de proves d'HTML on aniré editant coses.
 
 ### Etiquetes bàsiques:
 
@@ -25,7 +25,7 @@ Masterclass sobre desenvolupament frontend (web) bàsic amb HTML, CSS i JS. Ens 
 - Text `<input type="text" placeholder="Text de prova">` <input type="text" placeholder="Text de prova">
 - Botons `<input type="button" value="Clica aquí">` 
 <input type="button" value="Clica aquí">
-- Més inputs i labels: see [form.html](html/form.html)
+- Més inputs i labels: see [form.html](./html/form.html)
 
 ### Estructura de caixes
 
@@ -39,14 +39,18 @@ En realitats looks like això:
 
 ![](img/wireframe-divs.png)
 
->[Aquí](html/estructura.html) l'arxiu amb aquesta estructura.
+Finalment ha quedat així, després d'afegir una secció de comentaris i un formulari:
+
+![](./img/web.png)
+
+>[Aquí](html/web.html) l'arxiu amb aquesta estructura.
 
 
 ## **CSS**
 
 **C**ascading **S**tyle **S**heets (CSS) es un llenguatge de disseny gràfic amb els que donem estils als elements d'HTML.
 
->[Aquí](style.css) l'arxiu CSS on faré proves.
+>[Aquí](./css/style.css) l'arxiu CSS on faré proves.
 
 ### Selectors
 
@@ -87,11 +91,14 @@ En realitats looks like això:
 
 Aquesta part ja la coneixeu: al JavaScript hi anirà tota la lògica del funcionament de la pàgina.
 
->[Aquí](js/script.js) l'arxiu de JavaScript on aniré fent proves (i [aquí](html/javascript.html) el seu HTML).
-
 - `console.log()`
-- `window.alert()`
-- `window.prompt()`
 - Modificació del DOM `querySelector()` i `querySelectorAll()`
 - Disparadors `.addEventListener()`
-- Per fer peticions HTTP al servidor: [Fetch API](https://pablomonteserin.com/curso/javascript/ejemplos-api-fetch/)
+- `window.alert()`
+- Per fer peticions HTTP al servidor: [Fetch API](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch) i [exemples](https://pablomonteserin.com/curso/javascript/ejemplos-api-fetch/)
+
+>[Aquí](js/web.js) l'arxiu de JavaScript corresponent al web amb formulari de comentaris, on hem afegit un formulari de comentaris, un selector de tema i un selector d'idioma CAT/ENG.
+
+>[Aquí](js/card.js) l'arxiu de JavaScript corresponent a la pàgina amb targetes on hem fet peticions a la [API dels Simpson](https://thesimpsonsquoteapi.glitch.me/) (i el seu [HTML](./html/card.html)).
+
+![](./img/simpson.PNG)
