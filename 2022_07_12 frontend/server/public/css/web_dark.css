@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400&family=Open+Sans:wght@300;400;500&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito';
+    background-color: gray;
+    color: rgb(220, 220, 220);
+}
+
+#header {
+    text-align: center;
+}
+
+#theme {
+    position: absolute;
+    right: 30px;
+    top: 30px;
+}
+
+#lang {
+    position: absolute;
+    right: 30px;
+    top: 60px;
+}
+
+#container {
+    max-width: 900px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+#main {
+    display: flex;
+    flex-direction: row;
+}
+
+#sections {
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+}
+
+#sidebar {
+    min-width: 20%;
+    background-color: rgb(220, 220, 220);
+}
+
+#sidebar ul {
+    margin: 0;
+    padding: 0;
+}
+
+#sidebar li {
+    list-style: none;
+}
+
+#sidebar a {
+    text-decoration: none;
+    color: white;
+    background-color: gray;
+    padding: 5px;
+    margin: 5px;
+    display: block;
+    text-align: center;
+}
+
+#comment_container {
+    display: flex;
+    padding-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+#comment_container div {
+    background-color: rgb(220, 220, 220);
+    border-radius: 5px;
+    width: 20%;
+    padding: 10px;
+    margin: 5px;
+    color: gray;
+}
+
+#comment_form {
+    background-color: rgb(220, 220, 220);
+    text-align: center;
+    color: gray;
+}
+
+#comment_form form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px 50px;
+    background-color: rgb(220, 220, 220);
+}
+
+#comment_form form div {
+    display: flex;
+    flex-direction: column;
+}
+
+.labels{
+    padding-right: 50px;
+}
+
+.inputs {
+    align-items: center;
+}
+
+.inputs input {
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.inputs textarea {
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.inputs input[type="button"] {
+    width: 40%;
+}
+
+#footer {
+    color: gray;
+    text-align: center;
+    background-color: rgb(220, 220, 220);
+}
+
+.section img {
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}

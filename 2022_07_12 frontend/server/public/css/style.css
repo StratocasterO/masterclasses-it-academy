@@ -1,0 +1,21 @@
+body {
+    font-family: Arial; 
+    margin: 20px 200px 0 200px;
+    background-color: rgb(255, 226, 226);
+}
+h1 {
+    text-decoration: underline;
+    text-align: center;
+}
+#masterclass {
+    border: 2px solid rgb(99, 0, 157);
+}
+.estudiant {
+    color: blueviolet;
+}
+.destacat {
+    font-weight: bold;
+}
+.vers {
+    font-variant: small-caps;
+}

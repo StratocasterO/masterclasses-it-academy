@@ -1,0 +1,62 @@
+<link rel="stylesheet" href="../css/card.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+
+<input type="button" id="cat" value="Afegeix un gatet">
+<input type="button" id="simpson" value="Afegeix una frase dels Simpson">
+
+<div class="cont">
+    <div class="card">
+        <img src="" alt="">
+    
+        <h3>Perferendis, libero!</h3>
+    
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa explicabo maxime, illo nostrum similique ex repudiandae nemo excepturi?</p>
+    
+        <a href="http://placekitten.com/"> Click me! </a>
+    </div>
+    
+    <div class="card">
+        <img src="" alt="">
+    
+        <h3>Perferendis, libero!</h3>
+    
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa explicabo maxime, illo nostrum similique ex repudiandae nemo excepturi?</p>
+    
+        <a href="http://placekitten.com/"> Click me! </a>
+    </div>
+    
+    <div class="card">
+        <img src="" alt="">
+    
+        <h3>Perferendis, libero!</h3>
+    
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa explicabo maxime, illo nostrum similique ex repudiandae nemo excepturi?</p>
+    
+        <a href="http://placekitten.com/"> Click me! </a>
+    </div>
+    
+    <div class="card">
+        <img src="" alt="">
+    
+        <h3>Perferendis, libero!</h3>
+    
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa explicabo maxime, illo nostrum similique ex repudiandae nemo excepturi?</p>
+    
+        <a href="http://placekitten.com/"> Click me! </a>
+    </div>
+</div>
+
+
+<script>
+    let img = document.querySelectorAll(".card img")
+
+    img.forEach(img => {
+        let randomSize = [Math.floor(Math.random() * 150) + 50, Math.floor(Math.random() * 150) + 50]
+    
+        img.src = `http://placekitten.com/${randomSize[0]}/${randomSize[1]}`
+    })
+</script>
+
+<script src="../js/card.js"></script>
