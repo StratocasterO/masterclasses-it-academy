@@ -1,5 +1,5 @@
 # Masterclass GIT 
-Masterclass feta el 29 de setembre per aprendre les funcionalitats bàsiques i avançades de git a l'itinerari de Node.js de la [IT Academy](https://www.barcelonactiva.cat/es/itacademy).
+Masterclass feta el 29 de setembre per aprendre les **funcionalitats bàsiques i avançades de git** a l'itinerari de Node.js de la [IT Academy](https://www.barcelonactiva.cat/es/itacademy).
 
 ## Ús de GIT
 
@@ -8,11 +8,20 @@ Masterclass feta el 29 de setembre per aprendre les funcionalitats bàsiques i a
 
 ## Recomanacions generals
 
-- uso desde VSC (+ ocasional Git Kraken, Fork, Source Tree...)
-- readmes
-- formato (nombres, carpetas...)
-- SOLO UNA carpeta trabajo
-- terminal git
+- Useu git des de VSC, us estalviareu problemes amb comandes incorrectes i no haureu de memoritzar comandes (també podeu usar alguna interfície gràfica com [Git Kraken](https://www.gitkraken.com/), [Fork](https://git-fork.com/) o [Source Tree](https://www.sourcetreeapp.com/))
+- Obriu al VSC **una única carpeta de treball** on tindreu clonats els vostres repos (⚠ compte amb tenir repos dins de repos, que no funciona ⚠)
+- Configureu VSC perquè la terminal per defecte sigui la _Git Bash_, també us estalviarà problemes amb la __Power shell__ i sempre veureu en quina carpeta i branca esteu
+- Manteniu el vostre GitHub ordenat: que tots els repos tinguin `README.md` i mantinguin el mateix format de nom, estructura, etc
+
+
+## Creació d'un nou repo
+
+Seguiu aquests pasos si us voleu estalviar maldecaps a l'hora d'inicialitzar repositoris:
+
+- Crear el repo a GitHub amb descripció, `README.md` i `.gitignore`
+- Clonar el repo a VSC introduint la URL (o iniciant sessió al VSC amb el compte de GitHub)
+- Afegir usuari i email per etiquetar els commits (si no ho heu fet encara)
+- Afegir credencials de GitHub fent el primer push per la terminal amb `git push origin` (si no ho heu fet encara)
 
 
 ## Funcionalitats comuns
@@ -32,9 +41,9 @@ Comandes:
 
 ## Ús des de VSC
 
-El mateix des de la pestanya _Source Control_ de VSC: molt més simple! ✨
+Des de la pestanya _Source Control_ de VSC: molt més simple i sense haver de recordar comandes! ✨
 
-- [Extensió Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph): per visualitzar l'arbre de Git del repositori
+- [Extensió Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph): per visualitzar l'arbre de Git del repositori i fer _checkout_ amb doble clic
 
 
 ## Gitflow
@@ -45,6 +54,10 @@ Branques _production_ i _staging_, branques per _features_ o per _developer_, do
 - `git branch`
 - `git checkout`
 - Pull requests (al teu i altres repos)
+
+Recordeu tornar al commit i/o la branca originals si heu de fer més d'un exercici usant la mateixa plantilla.
+
+Feu les _pull requests_ des de GitHub al vostre repo o a un altre (si esteu treballant en un _fork_).
 
 
 ## Exercici _git_initials_
@@ -57,11 +70,3 @@ Seguiu les instruccions per fer l'exercici i practicar els conceptes de fork i p
 ## Extres
 
 - Visualitzador/simulador de GIT: teniu [aquest](https://git-school.github.io/visualizing-git/) o [aquest altre](https://learngitbranching.js.org/), que inclou tutorials
-- Github pages (renderitza les pàgines dels repos amb `index.html`)
-- Github README.md profile ([generador de README](https://rahuldkjain.github.io/gh-profile-readme-generator/))
-
-
-## Extensions VSC
-
-- [Better comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments): per canviar el color dels comentaris en funció del símbol que posem al principi
-- [Todo tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree): per guardar tots els comentaris amb l'etiqueta TODO a una pestanya. Útil per estructurar la feina i deixar-nos recordatoris per seguir treballant
