@@ -19,7 +19,7 @@ A continuació pots trobar els **documents resum** de cada masterclass, que tene
 - 29/9/21 [Git - Github](https://github.com/StratocasterO/masterclasses-it-academy/blob/master/2022_09_29%20git/git.md)
 - 25/10/22 [Github profile & pages](https://github.com/StratocasterO/masterclasses-it-academy/blob/master/2022_06_01%20github/github.md)
 - 25/10/22 [Pensament enfocat](https://github.com/StratocasterO/masterclasses-it-academy/blob/master/2022_10_25%20pensament/pensament.md) (Rubén Alcalde)
-- 26/10/22 [Git - Github](https://github.com/StratocasterO/masterclasses-it-academy/blob/master/2022_10_26%20github/git.md) (Rubén Alcalde)
+- 26/10/22 [Git - Github](https://github.com/StratocasterO/masterclasses-it-academy/blob/master/2022_10_26%20git/git.md) (Rubén Alcalde)
 
 
 Si teniu qualsevol pregunta, suggeriment o m'he deixat afegir alguna cosa al resum, em podeu contactar per [Discord](discordapp.com/users/Stratocaster_o#1117) o fer-me una pull request amb el que s'hauria de canviar 😉
