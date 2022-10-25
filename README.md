@@ -17,6 +17,9 @@ A continuació pots trobar els **documents resum** de cada masterclass, que tene
 - 28/6/22 [GIT avançat i inicialització de projectes](https://github.com/StratocasterO/masterclasses-it-academy/blob/master/2022_06_28%20git%20%2B%20npm/git_npm.md)
 - 12/7/22 [Frontend amb HTML, CSS i JS](https://github.com/StratocasterO/masterclasses-it-academy/blob/master/2022_07_12%20frontend/frontend.md)
 - 29/9/21 [Git - Github](https://github.com/StratocasterO/masterclasses-it-academy/blob/master/2022_09_29%20git/git.md)
+- 25/10/22 [Github profile & pages](https://github.com/StratocasterO/masterclasses-it-academy/blob/master/2022_06_01%20github/github.md)
+- 25/10/22 [Pensament enfocat](https://github.com/StratocasterO/masterclasses-it-academy/blob/master/2022_10_25%20pensament/pensament.md) (Rubén Alcalde)
+- 26/10/22 [Git - Github](https://github.com/StratocasterO/masterclasses-it-academy/blob/master/2022_10_26%20github/git.md) (Rubén Alcalde)
 
 
 Si teniu qualsevol pregunta, suggeriment o m'he deixat afegir alguna cosa al resum, em podeu contactar per [Discord](discordapp.com/users/Stratocaster_o#1117) o fer-me una pull request amb el que s'hauria de canviar 😉
