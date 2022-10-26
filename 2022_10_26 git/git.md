@@ -1,5 +1,5 @@
 # Masterclass GIT 
-Masterclass feta el 10 de maig per aprendre les funcionalitats bàsiques de git a l'itinerari de Node.js de la [IT Academy](https://www.barcelonactiva.cat/es/itacademy).
+Masterclass feta pel [Rubén Alcalde]() el 26 d'octubre per aprendre les funcionalitats bàsiques de git a l'itinerari de Node.js de la [IT Academy](https://www.barcelonactiva.cat/es/itacademy).
 
 ## Ús de GIT
 
