@@ -67,11 +67,11 @@ Branques _production_ i _staging_, branques per _features_ o per _developer_, do
 
 Aquí teniu un exemple de git flow simple:
 
-![esquema git flow](esquema.png)
+![esquema git flow](esquema1.png)
 
 I com ha quedat aquest esquema implementat en el [repo de prova](https://github.com/StratocasterO/git-flow) que hem fet sense branca `dev` i fent un canvi més a `exercici1` al final de tot:
 
-![git graph](gitgraph.png)
+![git graph](gitgraph1.png)
 
 Recordeu tornar al commit i/o la branca originals si heu de fer més d'un exercici usant la mateixa plantilla.
 
