@@ -16,12 +16,15 @@ Masterclass feta el 18 de gener per aprendre les **funcionalitats bàsiques i av
 
 ## Creació d'un nou repo
 
-Seguiu aquests pasos si us voleu estalviar maldecaps a l'hora d'inicialitzar repositoris:
+Seguiu aquests pasos si us voleu estalviar maldecaps a l'hora d'inicialitzar repositoris.
 
-- Crear el repo a GitHub amb descripció, `README.md` i `.gitignore`
-- Clonar el repo a VSC introduint la URL (o iniciant sessió al VSC amb el compte de GitHub)
+La primera vegada:
 - Afegir usuari i email per etiquetar els commits (si no ho heu fet encara)
 - Afegir credencials de GitHub fent el primer push per la terminal amb `git push origin` (si no ho heu fet encara)
+
+Un cop tingueu l'usuari i les credencials:
+- Crear el repo a GitHub amb descripció, `README.md` i `.gitignore`
+- Clonar el repo a VSC introduint la URL (o iniciant sessió al VSC amb el compte de GitHub)
 
 
 ## Funcionalitats comuns
